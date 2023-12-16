@@ -23,7 +23,7 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
 </div>
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?usernameJhoonHe&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+  <img src ="https://github-readme-stats.vercel.app/api?username=JhoonHe&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 </p>
                     
 <h2>Lenguajes y Herramientas</h2>
