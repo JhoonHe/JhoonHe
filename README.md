@@ -25,6 +25,11 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=JhoonHe&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhumikatewary&show_icons=true&theme=radical) <a href="[https://github.com/JhoonHe/github-readme-stats](https://github.com/JhoonHe)"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoonHe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JhoonHe&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
                     
 <h2>Lenguajes y Herramientas</h2>
 
