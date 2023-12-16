@@ -15,6 +15,12 @@
 varias tecnologías. Busco oportunidades para aplicar y expandir mis habilidades técnicas, para 
 seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas efectivas.
 </p>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/JhoonHe/JhoonHe/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
                     
 <h2>Lenguajes y Herramientas</h2>
 
