@@ -145,18 +145,20 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
   </tr>
 </table>
 
+<table style=" border:1px solid black">
+  <tr>
+    <td>
+      
 <div style="background-color: white; padding: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=JhoonHe&show_icons=true&locale=es">
 </div>
+    </td>
 
+<td>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JhoonHe&locale=es&type=png" alt="GitHub Streak" /></a>
+</td>
+  </tr>
+</table>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoonHe&hide_progress=true&locale=es)
-
-   <style>
-        table,
-        td {
-            border: 1px solid red;
-        }
-    </style>
 
