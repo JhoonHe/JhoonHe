@@ -17,8 +17,8 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
 </p>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/JhoonHe/JhoonHe/blob/main/resources/img/grid-snake.svg"
+  <a href="https://github.com/JhoonHe">
+  <img  src="https://github.com/JhoonHe/JhoonHe/blob/main/github-user-contribution.svg"
        alt="snake" /></a>
 </div>
                     
