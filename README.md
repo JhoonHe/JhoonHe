@@ -1,6 +1,6 @@
+![Banner](https://github.com/JhoonHe/JhoonHe/blob/main/banner.png)
 
 <div style="background-color: white; padding: 20px;">
-![Banner](https://github.com/JhoonHe/JhoonHe/blob/main/banner.png)
 
 <!-- visitor counter -->
 <p align="right"> 
