@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JhoonHe/JhoonHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +15,8 @@ Here are some ideas to get you started:
 
 
 
- <h1 align="center">Hola, soy JhoonHe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-                width="35"></h1>
+<p align="center"><a href="https://github.com/shamimsikder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Shamim+Sikder%F0%9F%91%8B;A+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things;Love+to+Travel+and+Read+Books" alt="Typing SVG" /></a></p>
+
 
 <div align="center">
  <img src="https://media.discordapp.net/attachments/1157137823653167124/1185437040838443018/Copia_de_Copia_de_JhoonHe.png?ex=658f9b46&is=657d2646&hm=c6eb43a419c43d2fb52d70234d9200036bec00e2eb2c24235406df174116c19c&=&format=webp&quality=lossless&width=731&height=411"
