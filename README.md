@@ -1,6 +1,4 @@
-<div style="background-color: white>
 ![Banner](https://github.com/JhoonHe/JhoonHe/blob/main/banner.png)
-</div>
 
 <!-- visitor counter -->
 <p align="right"> 
@@ -18,7 +16,7 @@ varias tecnologías. Busco oportunidades para aplicar y expandir mis habilidades
 seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas efectivas.
 </p>
 
-<div align="center">
+<div style="background-color: white align="center">
   <a href="https://github.com/JhoonHe">
   <img  src="https://github.com/JhoonHe/JhoonHe/blob/main/github-user-contribution.svg"
        alt="snake" /></a>
