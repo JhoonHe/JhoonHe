@@ -15,6 +15,12 @@
 varias tecnologías. Busco oportunidades para aplicar y expandir mis habilidades técnicas, para 
 seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas efectivas.
 </p>
+
+<div align="center">
+  <a href="https://github.com/JhoonHe">
+  <img  src="https://github.com/JhoonHe/JhoonHe/blob/main/github-user-contribution.svg"
+       alt="snake" /></a>
+</div>
                     
 <h2>Lenguajes y Herramientas</h2>
 
@@ -137,12 +143,6 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="https://github.com/JhoonHe">
-  <img  src="https://github.com/JhoonHe/JhoonHe/blob/main/github-user-contribution.svg"
-       alt="snake" /></a>
-</div>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JhoonHe&show_icons=true&theme=transparent&locale=es">
