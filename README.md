@@ -144,11 +144,11 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
   </tr>
 </table>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JhoonHe&show_icons=true&theme=transparent&locale=es">
-</p>
+<div style="background-color: white; padding: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JhoonHe&show_icons=true&locale=es">
+</div>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JhoonHe&locale=es&type=png" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoonHe&hide_progress=true&locale=es&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoonHe&hide_progress=true&locale=es)
 
