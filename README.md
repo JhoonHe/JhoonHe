@@ -1,8 +1,11 @@
 ![Banner](https://github.com/JhoonHe/JhoonHe/blob/main/banner.png)
 
-<div align="center">
-![Visitor Count](https://profile-counter.glitch.me/JhoonHe/count.svg)
-</div>
+<!-- visitor counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/JhoonHe/count.svg" />
+</p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <img
                     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2B3139&background=FF000000&&random=false&width=435&lines=%C2%A1Hola,+Soy+JhoonHe!"
