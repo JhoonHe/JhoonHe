@@ -149,3 +149,5 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JhoonHe&locale=es&type=png" alt="GitHub Streak" /></a>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JhoonHe)](https://github.com/JhoonHe)
