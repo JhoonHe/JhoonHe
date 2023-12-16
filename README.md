@@ -1,9 +1,6 @@
 ![Banner](https://github.com/JhoonHe/JhoonHe/blob/main/banner.png)
 
-<!-- visitor counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/JhoonHe/count.svg" />
-</p>
+![Visitor Count](https://profile-counter.glitch.me/JhoonHe/count.svg)
 
 <img
                     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2B3139&background=FF000000&&random=false&width=435&lines=%C2%A1Hola,+Soy+JhoonHe!"
