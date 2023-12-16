@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="" https://github.com/JhoonHe"><img
+<img
                     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2B3139&background=FF000000&&random=false&width=435&lines=%C2%A1Hola,+Soy+JhoonHe!"
-                    alt="Typing SVG" /></a>
+                    alt="Typing SVG" />
                     
 <div align="center">
  <img src="https://media.discordapp.net/attachments/1157137823653167124/1185437040838443018/Copia_de_Copia_de_JhoonHe.png?ex=658f9b46&is=657d2646&hm=c6eb43a419c43d2fb52d70234d9200036bec00e2eb2c24235406df174116c19c&=&format=webp&quality=lossless&width=731&height=411"
