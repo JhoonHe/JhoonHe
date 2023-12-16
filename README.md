@@ -21,6 +21,10 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
   <img  src="https://github.com/JhoonHe/JhoonHe/blob/main/github-user-contribution.svg"
        alt="snake" /></a>
 </div>
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?usernameJhoonHe&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+</p>
                     
 <h2>Lenguajes y Herramientas</h2>
 
