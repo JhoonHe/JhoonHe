@@ -23,7 +23,7 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
 </div>
 
 <p align="center">
- [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JhoonHe&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true)](https://github.com/JhoonHe)
+![JhoonHe GitHub stats](https://github-readme-stats.vercel.app/api?username=JhoonHe&show_icons=true&theme=transparent&locale=es)
 </p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JhoonHe&locale=es&type=png" alt="GitHub Streak" /></a>
