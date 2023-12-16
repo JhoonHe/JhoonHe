@@ -150,4 +150,5 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JhoonHe&locale=es&type=png" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoonHe&hide_progress=true&locale=es)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhoonHe&hide_progress=true&locale=es&hide_title=true)
+
