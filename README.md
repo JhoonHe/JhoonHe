@@ -16,8 +16,6 @@ varias tecnologías. Busco oportunidades para aplicar y expandir mis habilidades
 seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas efectivas.
 </p>
                     
-<hr>
-
 <h2>Lenguajes y Herramientas</h2>
 
 <table align="center">
