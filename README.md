@@ -7,7 +7,14 @@
 
 <img
                     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2B3139&background=FF000000&&random=false&width=435&lines=%C2%A1Hola,+Soy+JhoonHe!"
-                    alt="Typing SVG" />           
+                    alt="Typing SVG" />    
+
+<p>
+  Soy estudiante de Análisis y Desarrollo de Software, con habilidades intermedias y básicas en 
+varias tecnologías. Busco oportunidades para aplicar y expandir mis habilidades técnicas, para 
+seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas efectivas.
+</p>
+                    
 
 <table align="center">
   <tr>
