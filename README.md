@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img src="https://media.discordapp.net/attachments/1157137823653167124/1185433988203020328/Copia_de_JhoonHe.png?ex=658f986f&is=657d236f&hm=01e5b729afee099e1fd5cd08fd1c8e8cf00cd001cb0744893d8a83e82ba7f748&=&format=webp&quality=lossless&width=731&height=411"
-            width="500px" alt="wallpaper">      
+            alt="wallpaper">      
 </div>
 
 <table align="center">
