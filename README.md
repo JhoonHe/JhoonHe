@@ -1,4 +1,6 @@
+<div style="background-color: white>
 ![Banner](https://github.com/JhoonHe/JhoonHe/blob/main/banner.png)
+</div>
 
 <!-- visitor counter -->
 <p align="right"> 
