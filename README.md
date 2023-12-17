@@ -7,8 +7,8 @@
 </p>
 
 <img
-                    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C8DAC&background=e3e3e3&&random=false&width=435&lines=%C2%A1Hola,+Soy+JhoonHe!"
-                    alt="Typing SVG" />    
+                    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C8DAC&background=FF000000&&random=false&width=435&lines=%C2%A1Hola,+Soy+JhoonHe!"
+                    alt="Typing SVG" />   
 
 <hr>
 
@@ -18,7 +18,7 @@ varias tecnologías. Busco oportunidades para aplicar y expandir mis habilidades
 seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas efectivas.
 </p>
 
-<div align="center">
+<div align="center"  style="background-color: white;">
   <a href="https://github.com/JhoonHe">
   <img  src="https://github.com/JhoonHe/JhoonHe/blob/main/github-user-contribution.svg"
        alt="snake" /></a>
