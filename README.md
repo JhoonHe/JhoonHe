@@ -25,9 +25,7 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
                     
 <h2>Lenguajes y Herramientas</h2>
 
-<table>
-  <tr>
-    <td>   
+ <div style="display: flex; justify-content: space-between;"> 
 <div>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -50,14 +48,11 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </div>
-    </td>
-    <td>
-<div style="width: 500px;">
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoonHe&hide_progress=true&locale=es"> 
 </div>   
-    </td>
-  </tr>
-</table>
+ </div> 
 
 <table style=" border:1px solid black">
   <tr>
