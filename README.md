@@ -22,8 +22,10 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
   <img  src="https://github.com/JhoonHe/JhoonHe/blob/main/github-user-contribution.svg"
        alt="snake" /></a>
 </div>
-                    
+
+   <br>                 
 <h2>Lenguajes y Herramientas</h2>
+   <br>                 
 
 <div>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
