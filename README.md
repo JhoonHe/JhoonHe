@@ -51,7 +51,7 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
 
 <br>
 
-<div align="center" width="500px">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoonHe&hide_progress=true&locale=es" width="350px"> 
 </div>  
 
