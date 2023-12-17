@@ -11,13 +11,11 @@
                     alt="Typing SVG" />    
 <hr>
 
-<div style="background-color: black;">  
 <p>
   Soy estudiante de Análisis y Desarrollo de Software, con habilidades intermedias y básicas en 
 varias tecnologías. Busco oportunidades para aplicar y expandir mis habilidades técnicas, para 
 seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas efectivas.
 </p>
-</div>
 
 <div align="center">
   <a href="https://github.com/JhoonHe">
