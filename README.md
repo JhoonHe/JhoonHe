@@ -50,9 +50,11 @@ seguir creciendo y poder contribuir al desarrollo de soluciones tecnológicas ef
 
 <br>
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoonHe&hide_progress=true&locale=es"> 
 </div>  
+
+<h2>Estadísticas de GitHub</h2>
 
 <table style=" border:1px solid black">
   <tr>
